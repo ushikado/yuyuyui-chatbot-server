@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+transformers[torch]==4.5.1
+sentencepiece==0.1.95
+google-cloud-firestore
